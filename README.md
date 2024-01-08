@@ -34,11 +34,13 @@ Open an Integrated Terminal and run the following commands:
 npm install
 ```
 
-then run:
+then, when that is complete, run the next command:
 
 ```
 npm run start
 ```
+
+You are able to to now test your routes using Insomnia or alternative such as Postman.
 
 ---
 
@@ -46,7 +48,8 @@ npm run start
 
 ## Screenshot
 
-![screenshot](./assets/images/backend.jpg)
+![screenshot](./assets/images/api-screenshot-1.png)
+![screenshot](./assets/images/api-screenshot-2.png)
 
 ---
 
@@ -69,6 +72,8 @@ https://github.com/8BitGinger/restAPI-Social
 > git@github.com:8BitGinger/restAPI-Social.git
 
 ### Walkthrough Video:
+
+https://drive.google.com/file/d/1yqHgCmILR0dfUpCz8A0o9vYwfRJnzJ0G/view
 
 <a id="support"></a>
 
